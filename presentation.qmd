@@ -1,6 +1,6 @@
 ---
 title: "Project title"
-subtitle: "INFO 523 - Fall 2023 - Project Final"
+subtitle: "INFO 526 - Fall 2023 - Project Final"
 author: "Author names"
 title-slide-attributes:
   data-background-image: images/watercolour_sys02_img34_teacup-ocean.jpg
