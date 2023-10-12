@@ -1,6 +1,6 @@
 ---
 title: "Project title"
-subtitle: "INFO 523 - Project Final"
+subtitle: "INFO 526 - Project Final"
 author: "Team name"
 format: html
 editor: visual
